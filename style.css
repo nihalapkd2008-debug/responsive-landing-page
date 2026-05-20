@@ -37,13 +37,13 @@ body {
 
   border: none;
 
-  background-color: #38bdf8;
+  background-color: #45bef2;
 
   color: white;
 
   font-size: 16px;
 
-  border-radius: 10px;
+  border-radius: 23px;
 
   transition: 0.3s;
 }
@@ -65,7 +65,7 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(227, 233, 255);
 
   color: black;
 
